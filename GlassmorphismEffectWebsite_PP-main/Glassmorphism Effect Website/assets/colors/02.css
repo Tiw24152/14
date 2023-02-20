@@ -1,0 +1,8 @@
+body
+{
+  background: red;
+}
+.circles li {
+  background: rgba(189, 70, 70, 0.08);
+  background: rgba(255, 255, 255, 0.4);
+}
